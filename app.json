@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Writing code for Awesome UI designs.",
+    "githubUrl": "https://github.com/Jaay7/ui-with-react-native"
   }
 }
